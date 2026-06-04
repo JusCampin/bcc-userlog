@@ -51,7 +51,8 @@ Locales['de_lang'] = {
     no_data_available = "Keine Daten verfügbar",
     backToLeaderboard = "Zurück zum Leaderboard",
     additionalInfo = " 1 ",
-    ---new
     last_connection_playtime = "Meine letzte Session dauerte:",
     last_connection_playtime_not_found = "Meine letzte Session-Dauer konnte nicht ermittelt werden!",
+    chatMessage = "^5Bitte überprüfe das Leaderboard, um zu sehen, ob du für die Top-Belohnungen qualifiziert bist!\n^7Der Befehl ist ^1/leaderboard",
+    timePlayedinfo = "Die Spielzeit wird berechnet als: \n(Tage:Stunden:Minuten)"
 }
