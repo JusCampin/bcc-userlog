@@ -51,6 +51,8 @@ Locales['en_lang'] = {
     no_data_available = "No data available",
     backToLeaderboard = "Back to Leaderboard",
     additionalInfo = "Here will add some info",
+    last_connection_playtime = "Your last session playtime was: ",
+    last_connection_playtime_not_found = "Could not retrieve your last session time. Please ensure you are registered in the database.",
     chatMessage = "^5Please check the leaderboard to see if you are eligible for the top rewards!\n^7The command is ^1/leaderboard",
     timePlayedinfo = "Playtime is calculated as: \n(days:hours:minutes)"
 }

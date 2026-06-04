@@ -51,6 +51,8 @@ Locales['ro_lang'] = {
     no_data_available = 'Nicio informatie disponibila',
     backToLeaderboard = 'Inapoi la Clasament',
     additionalInfo = 'Aici va fi adaugata informatie',
+    last_connection_playtime = "Tumaro paluno khelipesko vaxt sas: ",
+    last_connection_playtime_not_found = "Nashti te lav palpale o vaxt e palune sesiako. Mangav tumen te sigurinen kaj san registrime ki databaza.",
     chatMessage = "^5Va rugam sa verificati clasamentul pentru a vedea daca sunteti eligibili pentru cadourile din top!\n^7Comanda este ^1/clasament",
     timePlayedinfo = "Timpul de joc este calculat in : \n(zile:ore:minute)"
 }
